@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-
 import { cards } from "./data"; 
 import Card from "./components/card/Card";
 import Header from "./components/header/Header";
